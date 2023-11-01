@@ -1,0 +1,7 @@
+D:\OneDrive - Algonquin College\Coding toolkit\C-Sharp\Hello World\Hello World\bin\Debug\Hello World.exe.config
+D:\OneDrive - Algonquin College\Coding toolkit\C-Sharp\Hello World\Hello World\bin\Debug\Hello World.exe
+D:\OneDrive - Algonquin College\Coding toolkit\C-Sharp\Hello World\Hello World\bin\Debug\Hello World.pdb
+D:\OneDrive - Algonquin College\Coding toolkit\C-Sharp\Hello World\Hello World\obj\Debug\Hello World.csproj.AssemblyReference.cache
+D:\OneDrive - Algonquin College\Coding toolkit\C-Sharp\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+D:\OneDrive - Algonquin College\Coding toolkit\C-Sharp\Hello World\Hello World\obj\Debug\Hello World.exe
+D:\OneDrive - Algonquin College\Coding toolkit\C-Sharp\Hello World\Hello World\obj\Debug\Hello World.pdb
