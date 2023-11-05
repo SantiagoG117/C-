@@ -43,14 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Math\Calculator.cs" />
+    <Compile Include="Arrays and Lists\ArrayFundamentals.cs" />
+    <Compile Include="Arrays and Lists\ListFundamentals.cs" />
+    <Compile Include="Control Flow\ConditionalStatements.cs" />
+    <Compile Include="Control Flow\Seasons.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Random Class\RandomNumbers.cs" />
     <Compile Include="Strings\StringFundamentals.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

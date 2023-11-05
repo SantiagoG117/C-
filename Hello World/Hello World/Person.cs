@@ -1,13 +1,14 @@
 ﻿using System;
 
 // Name space: Container for related classes
-namespace Hello_World
+namespace Fundamentals
 {
     public class Person
     {
         // Attributes
         public String FirstName;
         public string LastName;
+        public int Age;
 
         //Public methods
         public void Introduce()

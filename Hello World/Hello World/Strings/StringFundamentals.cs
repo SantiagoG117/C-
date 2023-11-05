@@ -2,7 +2,7 @@
 using System.Reflection;
 
 
-namespace Hello_World.Strings
+namespace Fundamentals.Strings
 {
     public class StringFundamentals
     {

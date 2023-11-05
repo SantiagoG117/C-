@@ -1,19 +1,20 @@
 ﻿// Name space: Container for related classes
 using System;
-using Hello_World.Math;
-using Hello_World.Strings;
+using Fundamentals.Strings;
+using Hello_World.Arrays;
+using Hello_World.Control_Flow;
+using Hello_World.Random_Class;
 
-namespace Hello_World
+namespace Fundamentals
 {
+ 
 
     class Program
     {
         static void Main(string[] args)
         {
-            var strings = new StringFundamentals();
-
-            strings.VerbatimMethod();
-
+            var arrays = new ArrayFundamentals();
+            arrays.clearMethod();
         }
     }
 }
