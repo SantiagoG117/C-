@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ObjectOrientedProgramming.Classes;
+using ObjectOrientedProgramming.InheritanceAndComposition;
 using ObjectOrientedProgramming.Methods;
 
 namespace ObjectOrientedProgramming
@@ -11,12 +13,9 @@ namespace ObjectOrientedProgramming
     {
         static void Main(string[] args)
         {
-            var calculator = new CalculatorParamsModifier();
-            Console.WriteLine(calculator.Add(1, 2, 3, 4));
-            Console.WriteLine(calculator.Add(1, 2, 3));
-            Console.WriteLine(calculator.Add(1, 2));
-            Console.WriteLine(calculator.Add(1));
-            
+            var text = new Text();
+            text.Width = 100;
+            text.Copy();
         }
     }
 }

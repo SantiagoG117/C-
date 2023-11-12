@@ -45,7 +45,11 @@
   <ItemGroup>
     <Compile Include="Classes\CalculatorParamsModifier.cs" />
     <Compile Include="Classes\FieldsFundamentalsOnCustomer.cs" />
+    <Compile Include="Classes\IndexersHttpCookie.cs" />
     <Compile Include="Classes\Orders.cs" />
+    <Compile Include="Classes\PersonTraditionalClass.cs" />
+    <Compile Include="InheritanceAndComposition\PresenationObject.cs" />
+    <Compile Include="InheritanceAndComposition\Text.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

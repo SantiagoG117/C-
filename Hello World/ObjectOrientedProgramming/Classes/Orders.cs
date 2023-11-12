@@ -1,4 +1,4 @@
-namespace ObjectOrientedProgramming.Methods
+namespace ObjectOrientedProgramming.Classes
 {
     public class Orders
     {
