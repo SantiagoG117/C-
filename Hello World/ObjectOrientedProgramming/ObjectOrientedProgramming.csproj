@@ -48,8 +48,21 @@
     <Compile Include="Classes\IndexersHttpCookie.cs" />
     <Compile Include="Classes\Orders.cs" />
     <Compile Include="Classes\PersonTraditionalClass.cs" />
+    <Compile Include="InheritanceAndComposition\Car.cs" />
     <Compile Include="InheritanceAndComposition\PresenationObject.cs" />
+    <Compile Include="InheritanceAndComposition\Shape.cs" />
     <Compile Include="InheritanceAndComposition\Text.cs" />
+    <Compile Include="InheritanceAndComposition\Vehicle.cs" />
+    <Compile Include="InterfacesAndTestability\IShippingCalculator.cs" />
+    <Compile Include="InterfacesAndTestability\Order.cs" />
+    <Compile Include="InterfacesAndTestability\OrderProcessor.cs" />
+    <Compile Include="InterfacesAndTestability\Shipment.cs" />
+    <Compile Include="InterfacesAndTestability\ShippingCalculator.cs" />
+    <Compile Include="Polymorphism\Canvas.cs" />
+    <Compile Include="Polymorphism\Circle.cs" />
+    <Compile Include="Polymorphism\Position.cs" />
+    <Compile Include="Polymorphism\Rectangle.cs" />
+    <Compile Include="Polymorphism\Shape.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

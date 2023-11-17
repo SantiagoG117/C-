@@ -6,16 +6,11 @@ namespace ObjectOrientedProgramming.InheritanceAndComposition
     /// Text inherits from PresentationObject
     /// 
     /// </summary>
-    public class Text : PresenationObject
+    public class Text : Shape
     {
         //?Properties
         public int FontSize { get; set; }
         public string FontName { get; set; }
-        
-        //?Public methods:
-        public void AddHyperlink(string url)
-        {
-            Console.WriteLine("We added a link to " + url);
-        }
+       
     }
 }
